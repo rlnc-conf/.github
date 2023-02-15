@@ -12,7 +12,7 @@
 
 Дополнительную информацию о приложении можно найти в [презентации](https://github.com/NC-Bikepacker/wiki/blob/main/Bikepacker%20presentation.pdf) и [брошюре](https://github.com/NC-Bikepacker/wiki/blob/main/Bikepacker_brochure.pdf).
 
-## Wiki contents
+## Wiki
 1. [Presentation](https://github.com/NC-Bikepacker/wiki/blob/main/Bikepacker%20presentation.pdf)
 1. [Brochure](https://github.com/NC-Bikepacker/wiki/blob/main/Bikepacker_brochure.pdf)
 1. [User stories](https://github.com/NCProject-CyclistsHabr/wiki/wiki/User-stories)
